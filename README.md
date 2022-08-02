@@ -5,3 +5,5 @@ Learning Git
 # Thanks
 
 checking fetch
+
+checking conficts
