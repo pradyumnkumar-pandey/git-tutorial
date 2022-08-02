@@ -5,3 +5,6 @@ Learning Git
 # Thanks
 
 checking fetch
+
+
+checking confilct resoltuion process in git
